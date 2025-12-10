@@ -44,5 +44,6 @@ Performed in Google Colab:
 - Top City by Orders
 - Average Order Value (AOV)
 - Revenue by Sales Channel
-![Dashboard Preview](images/Financial View.png)
+
+![Dashboard Preview]([images/Financial View.png](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Financial%20View.png))
 
