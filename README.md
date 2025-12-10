@@ -45,5 +45,5 @@ Performed in Google Colab:
 - Average Order Value (AOV)
 - Revenue by Sales Channel
 
-![Dashboard Preview]([images/Financial View.png](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Financial%20View.png))
+[Financial Dashboard Preview](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Financial%20View.png)
 
