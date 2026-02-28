@@ -51,20 +51,9 @@ Performed in Google Colab:
 - Average Order Value (AOV)
 - Revenue by Sales Channel
 
-## Financial Dashboard Preview
-![Financial Dashboard Preview](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Financial%20View.png)
+## Dashboard Overview 
+![Dashboard Preview](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Image%20and%20Presentation/Ecom-dashboard.png)
 
-## Customer Insight view
-![Customer Insight view](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Customer%20Insight%20view.png)
-
-## Logistics & Fulfillment Insight View
-![Logistics & Fulfillment Insight View](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Logistics%20%26%20Fulfillment%20Insight%20View.png)
-
-## Product Management View
-![Product Management View](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Product%20Management%20View.png)
-
-## Customer Satisfaction and Return View
-![Customer Satisfaction and Return View](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Images/Customer%20Satisfaction%20and%20Return%20View.png)
 
 ## Challenges Faced
 - Data quality issues (missing or inconsistent order statuses)
