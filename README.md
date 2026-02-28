@@ -3,10 +3,10 @@ This project analyzes sales, customer behavior, and fulfillment patterns for an 
 The goal is to uncover insights that improve decision-making across sales, operations, inventory, and customer experience.
 
 **Brief overview of the company:**
-An e-commerce company is facing multiple operational challenges that hinder growth and customer satisfaction. To address these issues, the company is leveraging data-driven insights to optimize operations.
+An e-commerce company is facing multiple operational challenges that hinder growth and customer satisfaction. To address these issues, the company is using data to improve operations.
 
 ## Problem Statement
-Orders are being delayed, canceled, or returned frequently, affecting customer satisfaction and revenue. The company wants to identify operational inefficiencies and optimize product and fulfillment performance.
+Orders are frequently delayed, canceled, or returned, affecting customer satisfaction and revenue. The company wants to identify operational inefficiencies and optimize product and fulfillment performance.
 
 ## Project Overview
 This project involves:
@@ -78,6 +78,6 @@ Overall, the company exhibits strong growth potential but faces operational inef
 - **Data-Driven Monitoring:** Implement continuous dashboard monitoring to track revenue trends, returns, cancellations, and top-performing products for proactive decision-making.
 
 ## Project Presentation 
-![Presentation]()
+![Presentation](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Image%20and%20Presentation/Ecommerce_presentation.pdf)
 
 
