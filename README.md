@@ -21,6 +21,8 @@ This project involves:
 - Google Colab – for accessible, cloud-based Python workflows
 - Power BI – for dashboard creation and data storytelling
 - GitHub – for project versioning and documentation
+- PowerPoint - for designing and arranging a presentation
+- OBS - for making the project Presentation 
 
 ## Dataset Description
 
