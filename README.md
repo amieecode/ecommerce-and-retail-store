@@ -78,6 +78,9 @@ Overall, the company exhibits strong growth potential but faces operational inef
 - **Data-Driven Monitoring:** Implement continuous dashboard monitoring to track revenue trends, returns, cancellations, and top-performing products for proactive decision-making.
 
 ## Project Presentation 
-![Presentation](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Image%20and%20Presentation/Ecommerce_presentation.pdf)
+You can view or download the full presentation here:
+
+[View Presentation Online](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Image%20and%20Presentation/Ecommerce_presentation.pdf)
+
 
 
