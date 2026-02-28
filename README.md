@@ -80,7 +80,7 @@ Overall, the company exhibits strong growth potential but faces operational inef
 ## Project Presentation 
 You can view or download the full presentation here:
 
-[View Presentation Online](https://github.com/amieecode/ecommerce-and-retail-store/blob/main/Image%20and%20Presentation/Ecommerce_presentation.pdf)
+[View Presentation](Image%20and%20Presentation/Ecommerce_presentation.pdf)
 
 
 
