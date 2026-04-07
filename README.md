@@ -84,5 +84,7 @@ You can view or download the full presentation here:
 
 [View Presentation](Image%20and%20Presentation/Ecommerce_presentation.pdf)
 
-
+# Author
+- Enwelum Chiamaka
+- Nov 28, 2025
 
